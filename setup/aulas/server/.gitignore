@@ -1,6 +1,4 @@
-node_modules/
-# Keep environment variables out of version control
-.env*
+node_modules
+.env
 package-lock.json*
-package.json*
 tsconfig.json*
