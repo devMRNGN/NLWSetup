@@ -14,6 +14,7 @@ babel.config.js*
 package-lock.json*
 package.json*
 tsconfig.json*
+tailwind.config.js*
 
 # macOS
 .DS_Store
