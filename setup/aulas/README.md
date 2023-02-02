@@ -1,6 +1,6 @@
 <p align="center">
 
-  ![](./assets/banner1.png)
+  ![](./assets/setup.png)
   
 </p>
 
@@ -42,13 +42,16 @@ Foi desenvolvido com o propósito de criar resgistros de hábitos, foi criado de
 ![](./assets/habits.png)
 <br>
 
-![](./assets/app.gif)
+<p align="center">
+
+  ![](./assets/app.gif)
+  
+</p>
 
 
 ## :memo: Licença
 
 <p align="center">
-    Esse projeto está sob a licença MIT.3
+    Esse projeto está sob a licença MIT.3 <br>
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
----
