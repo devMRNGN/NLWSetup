@@ -44,14 +44,7 @@ Foi desenvolvido com o propósito de criar resgistros de hábitos, foi criado de
 
 <p align="center">
 
-  <p align="center'>
-
-  ![](./assets/app.gif)
-  
-  </p>
-
-</p>
-
+<img align="center" src="./assets/app.gif">
 
 ## :memo: Licença
 
